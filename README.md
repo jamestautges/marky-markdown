@@ -222,7 +222,7 @@ that
 break
 
 - item 1
-             - item 1.97
+           - item 1.97
 - item 2
 
 break
