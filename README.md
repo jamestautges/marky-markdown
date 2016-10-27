@@ -207,8 +207,25 @@ that
 break
 
 - item 1
--
-item 2
+- item 2
 that
 
 - item 3
+
+break
+
+- item 1
+  ```javascript
+  console.log(0)
+  console.log(1)
+  ```
+- item 2
+
+break
+
+- item 1
+```javascript
+console.log(0)
+console.log(1)
+```
+- item 2
