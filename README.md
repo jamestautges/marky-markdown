@@ -202,7 +202,7 @@ break
 - item 1
 - item 2
 that
--item 3
+- item 3
 
 break
 
