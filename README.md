@@ -207,6 +207,8 @@ that
 break
 
 - item 1
+   - item 1.5
+ - item 1.7
 - item 2
 that
 
