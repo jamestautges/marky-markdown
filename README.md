@@ -211,8 +211,8 @@ break
   - item 1.7
   - item 1.9
    - item 1.95
-     - item 1.96
-             - item 1.97
+       - item 1.96
+     - item 1.97
      - item 1.98
 - item 2
 that
