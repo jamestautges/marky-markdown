@@ -222,10 +222,7 @@ that
 break
 
 - item 1
-  ```javascript
-  console.log(0)
-  console.log(1)
-  ```
+              - item 1.97
 - item 2
 
 break
